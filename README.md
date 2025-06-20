@@ -1,2 +1,2 @@
 # testfolder
-creating test repo for demo use
+used in summer 2025 semester
